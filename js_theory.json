@@ -1,919 +1,188 @@
 {
-  "LearnPHP": [
-    {
-      "id": 1,
-      "title": "Getting started",
-      "SubSection": [
+    "LearnPHP": [
         {
-          "id": 1,
-          "title": "What is JavaScript?",
-          "web_site": "https://sites.google.com/view/alians-js-1/home"
+            "id": 1,
+            "title": "Getting started",
+            "SubSection": [
+                {
+                    "id": 1,
+                    "title": "What is JavaScript?",
+                    "web_site": "https://sites.google.com/view/alians-js-1/home"
+                },
+                {
+                    "id": 2,
+                    "title": "Install a JavaScript source code editor",
+                    "web_site": "https://sites.google.com/view/alians-js-2/home"
+                },
+                {
+                    "id": 3,
+                    "title": "Web Development Tools",
+                    "web_site": "https://sites.google.com/view/alians-js-3/home"
+                },
+                {
+                    "id": 4,
+                    "title": "JavaScript Hello World",
+                    "web_site": "https://sites.google.com/view/alians-js-4/home"
+                }
+            ]
         },
         {
-          "id": 2,
-          "title": "Install a JavaScript source code editor",
-          "web_site": "https://sites.google.com/view/alians-js-2/home"
+            "id": 2,
+            "title": "Fundamentals",
+            "SubSection": [
+                {
+                    "id": 1,
+                    "title": "Syntax",
+                    "web_site": "https://sites.google.com/view/alians-js-5/home"
+                },
+                {
+                    "id": 2,
+                    "title": "Variables",
+                    "web_site": "https://sites.google.com/view/alians-js-6/home"
+                },
+                {
+                    "id": 3,
+                    "title": "Data types",
+                    "web_site": "https://sites.google.com/view/alians-js-7/home"
+                },
+                {
+                    "id": 4,
+                    "title": "Number",
+                    "web_site": "https://sites.google.com/view/alians-js-8/home"
+                },
+                {
+                    "id": 5,
+                    "title": "Numeric Separator",
+                    "web_site": "https://sites.google.com/view/alians-js-9/home"
+                },
+                {
+                    "id": 6,
+                    "title": "Octal & binary literals",
+                    "web_site": "https://sites.google.com/view/alians-js-10/home"
+                },
+                {
+                    "id": 7,
+                    "title": "Boolean",
+                    "web_site": "https://sites.google.com/view/alians-js-11/home"
+                },
+                {
+                    "id": 8,
+                    "title": "String",
+                    "web_site": "https://sites.google.com/view/alians-js-12/home"
+                },
+                {
+                    "id": 9,
+                    "title": "Object",
+                    "web_site": "https://sites.google.com/view/alians-js-13/home"
+                },
+                {
+                    "id": 10,
+                    "title": "Primitive vs. reference values",
+                    "web_site": "https://sites.google.com/view/alians-js-14/home"
+                },
+                {
+                    "id": 11,
+                    "title": "Array",
+                    "web_site": "https://sites.google.com/view/alians-js-15/home"
+                }
+            ]
         },
         {
-          "id": 3,
-          "title": "Web Development Tools",
-          "web_site": "https://sites.google.com/view/alians-js-3/home"
+            "id": 3,
+            "title": "Operators",
+            "SubSection": [
+                {
+                    "id": 1,
+                    "title": "Arithmetic operators",
+                    "web_site": "https://sites.google.com/view/alians-js-16/home"
+                },
+                {
+                    "id": 2,
+                    "title": "Remainder operator",
+                    "web_site": "https://sites.google.com/view/alians-js-17/home"
+                },
+                {
+                    "id": 3,
+                    "title": "Assignment operators",
+                    "web_site": "https://sites.google.com/view/alians-js-18/home"
+                },
+                {
+                    "id": 4,
+                    "title": "Unary operators",
+                    "web_site": "https://sites.google.com/view/alians-js-19/home"
+                },
+                {
+                    "id": 5,
+                    "title": "Comparison operators",
+                    "web_site": "https://sites.google.com/view/alians-js-20/home"
+                },
+                {
+                    "id": 6,
+                    "title": "Logical operators",
+                    "web_site": "https://sites.google.com/view/alians-js-21/home"
+                }
+            ]
         },
-{
-          "id": 4,
-          "title": "JavaScript Hello World",
-          "web_site": "https://sites.google.com/view/alians-js-4/home"
+        {
+            "id": 4,
+            "title": "Control flow Statements",
+            "SubSection": [
+                {
+                    "id": 1,
+                    "title": "if",
+                    "web_site": "https://sites.google.com/view/alians-js-22/home"
+                },
+                {
+                    "id": 2,
+                    "title": "if…else",
+                    "web_site": "https://sites.google.com/view/alians-js-23/home"
+                },
+                {
+                    "id": 3,
+                    "title": "if…else…if",
+                    "web_site": "https://sites.google.com/view/alians-js-24/home"
+                },
+                {
+                    "id": 4,
+                    "title": "Ternary operators",
+                    "web_site": "https://sites.google.com/view/alians-js-25/home"
+                },
+                {
+                    "id": 5,
+                    "title": "switch",
+                    "web_site": "https://sites.google.com/view/alians-js-26/home"
+                },
+                {
+                    "id": 6,
+                    "title": "while",
+                    "web_site": "https://sites.google.com/view/alians-js-27/home"
+                },
+                {
+                    "id": 7,
+                    "title": "do…while",
+                    "web_site": "https://sites.google.com/view/alians-js-28/home"
+                },
+                {
+                    "id": 8,
+                    "title": "for loop",
+                    "web_site": "https://sites.google.com/view/alians-js-29/home"
+                },
+                {
+                    "id": 9,
+                    "title": "break",
+                    "web_site": "https://sites.google.com/view/alians-js-30/home"
+                },
+                {
+                    "id": 10,
+                    "title": "continue",
+                    "web_site": "https://sites.google.com/view/alians-js-31/home"
+                },
+                {
+                    "id": 11,
+                    "title": "Comma operator",
+                    "web_site": "https://sites.google.com/view/alians-js-32/home"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Fundamentals",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "Syntax",
-          "web_site": "https://sites.google.com/view/alians-js-5/home"
-        },
-        {
-          "id": 2,
-          "title": "Variables",
-          "web_site": "https://sites.google.com/view/alians-js-6/home"
-        },
-        {
-          "id": 3,
-          "title": "Data types",
-          "web_site": "https://sites.google.com/view/alians-js-7/home"
-        },
-        {
-          "id": 4,
-          "title": "Number",
-          "web_site": "https://sites.google.com/view/alians-js-8/home"
-        },
-        {
-          "id": 5,
-          "title": "Numeric Separator",
-          "web_site": "https://sites.google.com/view/alians-js-9/home"
-        },
-	{
-          "id": 6,
-          "title": "Octal & binary literals",
-          "web_site": "https://sites.google.com/view/alians-js-10/home"
-        },
-        {
-          "id": 7,
-          "title": "Boolean",
-          "web_site": "https://sites.google.com/view/alians-js-11/home"
-        },
-        {
-          "id": 8,
-          "title": "String",
-          "web_site": "https://sites.google.com/view/alians-js-12/home"
-        },
-        {
-          "id": 9,
-          "title": "Object",
-          "web_site": "https://sites.google.com/view/alians-js-13/home"
-        },
-        {
-          "id": 10,
-          "title": "Primitive vs. reference values",
-          "web_site": "https://sites.google.com/view/alians-js-14/home"
-        },
-        {
-          "id": 11,
-          "title": "Array",
-          "web_site": "https://sites.google.com/view/alians-js-15/home"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "PHP Types",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "Data Types",
-          "web_site": "https://sites.google.com/view/alians-js-9/home"
-        },
-        {
-          "id": 2,
-          "title": "Boolean",
-          "web_site": "https://sites.google.com/view/alians-js-10/home"
-        },
-        {
-          "id": 3,
-          "title": "Integer",
-          "web_site": "https://sites.google.com/view/alians-js-11/home"
-        },
-        {
-          "id": 4,
-          "title": "Float",
-          "web_site": "https://sites.google.com/view/alians-js-12/home"
-        },
-        {
-          "id": 5,
-          "title": "String",
-          "web_site": "https://sites.google.com/view/alians-js-13/home"
-        },
-        {
-          "id": 6,
-          "title": "Null",
-          "web_site": "https://sites.google.com/view/alians-js-14/home"
-        },
-        {
-          "id": 7,
-          "title": "Type Casting",
-          "web_site": "https://sites.google.com/view/alians-js-15/home"
-        },
-        {
-          "id": 8,
-          "title": "Type Juggling",
-          "web_site": "https://sites.google.com/view/alians-js-16/home"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Operators",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "Assignment operators",
-          "web_site": "https://sites.google.com/view/alians-js-17/home"
-        },
-        {
-          "id": 2,
-          "title": "Comparison operators",
-          "web_site": "https://sites.google.com/view/alians-php-18/home"
-        },
-        {
-          "id": 3,
-          "title": "Logical AND operator (&&)",
-          "web_site": "https://sites.google.com/view/alians-php-19/home"
-        },
-        {
-          "id": 4,
-          "title": "Logical OR operator (||)",
-          "web_site": "https://sites.google.com/view/alians-php-20/home"
-        },
-        {
-          "id": 5,
-          "title": "Logical NOT operator (!)",
-          "web_site": "https://sites.google.com/view/alians-php-21/home"
-        },
-        {
-          "id": 6,
-          "title": "Operators",
-          "web_site": "https://sites.google.com/view/alians-php-22/home"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Control flow",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "if",
-          "web_site": "https://sites.google.com/view/alians-php-23/home"
-        },
-        {
-          "id": 2,
-          "title": "if-else",
-          "web_site": "https://sites.google.com/view/alians-php-24/home"
-        },
-        {
-          "id": 3,
-          "title": "if-elseif",
-          "web_site": "https://sites.google.com/view/alians-php-25/home"
-        },
-        {
-          "id": 4,
-          "title": "Ternary operator",
-          "web_site": "https://sites.google.com/view/alians-php-26/home"
-        },
-        {
-          "id": 5,
-          "title": "switch",
-          "web_site": "https://sites.google.com/view/alians-php-27/home"
-        },
-        {
-          "id": 6,
-          "title": "for",
-          "web_site": "https://sites.google.com/view/alians-php-28/home"
-        },
-        {
-          "id": 7,
-          "title": "while",
-          "web_site": "https://sites.google.com/view/alians-php-29/home"
-        },
-        {
-          "id": 8,
-          "title": "do-while",
-          "web_site": "https://sites.google.com/view/alians-php-30/home"
-        },
-        {
-          "id": 9,
-          "title": "break",
-          "web_site": "https://sites.google.com/view/alians-php-31/home"
-        },
-        {
-          "id": 10,
-          "title": "continue",
-          "web_site": "https://sites.google.com/view/alians-php-32/home"
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "title": "Functions",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "Function Parameters",
-          "web_site": "https://sites.google.com/view/alians-php-33/home"
-        },
-        {
-          "id": 2,
-          "title": "Default parameters",
-          "web_site": "https://sites.google.com/view/alians-php-34/home"
-        },
-        {
-          "id": 3,
-          "title": "Named arguments",
-          "web_site": "https://sites.google.com/view/alians-php-35/home"
-        },
-        {
-          "id": 4,
-          "title": "Variable scopes",
-          "web_site": "https://sites.google.com/view/alians-php-36/home"
-        },
-        {
-          "id": 5,
-          "title": "Type hints",
-          "web_site": "https://sites.google.com/view/alians-php-37/home"
-        },
-        {
-          "id": 6,
-          "title": "Strict typing",
-          "web_site": "https://sites.google.com/view/alians-php-38/home"
-        },
-        {
-          "id": 7,
-          "title": "Variadic functions ",
-          "web_site": "https://sites.google.com/view/alians-php-39/home"
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "title": "Array",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "Arrays",
-          "web_site": "https://sites.google.com/view/alians-php-40/home"
-        },
-        {
-          "id": 2,
-          "title": "Associative Arrays",
-          "web_site": "https://sites.google.com/view/alians-php-41/home"
-        },
-        {
-          "id": 3,
-          "title": "foreach",
-          "web_site": "https://sites.google.com/view/alians-php-42/home"
-        },
-        {
-          "id": 4,
-          "title": "Multidimensional Array",
-          "web_site": "https://sites.google.com/view/alians-php-43/home"
-        },
-        {
-          "id": 5,
-          "title": "array_unshift()",
-          "web_site": "https://sites.google.com/view/alians-php-44/home"
-        },
-        {
-          "id": 6,
-          "title": "array_push()",
-          "web_site": "https://sites.google.com/view/alians-php-45/home"
-        },
-        {
-          "id": 7,
-          "title": "array_pop()",
-          "web_site": "https://sites.google.com/view/alians-php-46/home"
-        },
-        {
-          "id": 8,
-          "title": "array_shift()",
-          "web_site": "https://sites.google.com/view/alians-php-47/home"
-        },
-        {
-          "id": 9,
-          "title": "array_keys()",
-          "web_site": "https://sites.google.com/view/alians-php-48/home"
-        },
-        {
-          "id": 10,
-          "title": "array_key_exists()",
-          "web_site": "https://sites.google.com/view/alians-php-49/home"
-        },
-        {
-          "id": 11,
-          "title": "in_array()",
-          "web_site": "https://sites.google.com/view/alians-php-50/home"
-        },
-        {
-          "id": 12,
-          "title": "array_reverse()",
-          "web_site": "https://sites.google.com/view/alians-php-51/home"
-        },
-        {
-          "id": 13,
-          "title": "array_merge()",
-          "web_site": "https://sites.google.com/view/alians-php-52/home"
-        },
-        {
-          "id": 14,
-          "title": "Spread operator",
-          "web_site": "https://sites.google.com/view/alians-php-53/home"
-        },
-        {
-          "id": 15,
-          "title": "list",
-          "web_site": "https://sites.google.com/view/alians-php-54/home"
-        },
-        {
-          "id": 16,
-          "title": "Array destructuring",
-          "web_site": "https://sites.google.com/view/alians-php-55/home"
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "title": "Sorting Arrays",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "ksort()",
-          "web_site": "https://sites.google.com/view/alians-php-56/home"
-        },
-        {
-          "id": 2,
-          "title": "usort()",
-          "web_site": "https://sites.google.com/view/alians-php-57/home"
-        },
-        {
-          "id": 3,
-          "title": "asort()",
-          "web_site": "https://sites.google.com/view/alians-php-58/home"
-        },
-        {
-          "id": 4,
-          "title": "uasort()",
-          "web_site": "https://sites.google.com/view/alians-php-59/home"
-        },
-        {
-          "id": 5,
-          "title": "uksort()",
-          "web_site": "https://sites.google.com/view/alians-php-60/home"
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "title": "Advanced Functions",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "Anonymous functions",
-          "web_site": "https://sites.google.com/view/alians-php-61/home"
-        },
-        {
-          "id": 2,
-          "title": "Arrow functions",
-          "web_site": "https://sites.google.com/view/alians-php-62/home"
-        },
-        {
-          "id": 3,
-          "title": "Variable functions",
-          "web_site": "https://sites.google.com/view/alians-php-63/home"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "title": "Variable constructs",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "isset",
-          "web_site": "https://sites.google.com/view/alians-php-64/home"
-        },
-        {
-          "id": 2,
-          "title": "empty",
-          "web_site": "https://sites.google.com/view/alians-php-65/home"
-        },
-        {
-          "id": 3,
-          "title": "is_null",
-          "web_site": "https://sites.google.com/view/alians-php-66/home"
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "title": "Advanced Array Operations",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "Map",
-          "web_site": "https://sites.google.com/view/alians-php-67/home"
-        },
-        {
-          "id": 2,
-          "title": "Filter",
-          "web_site": "https://sites.google.com/view/alians-php-68/home"
-        },
-        {
-          "id": 3,
-          "title": "Reduce",
-          "web_site": "https://sites.google.com/view/alians-php-69/home"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "title": "Organizing PHP files",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "Include",
-          "web_site": "https://sites.google.com/view/alians-php-70/home"
-        },
-        {
-          "id": 2,
-          "title": "include_once",
-          "web_site": "https://sites.google.com/view/alians-php-71/home"
-        },
-        {
-          "id": 3,
-          "title": "require",
-          "web_site": "https://sites.google.com/view/alians-php-72/home"
-        },
-        {
-          "id": 4,
-          "title": "__DIR__",
-          "web_site": "https://sites.google.com/view/alians-php-73/home"
-        },
-        {
-          "id": 5,
-          "title": "Variable variables",
-          "web_site": "https://sites.google.com/view/alians-php-74/home"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "title": "State Management",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "Cookies",
-          "web_site": "https://sites.google.com/view/alians-php-75/home"
-        },
-        {
-          "id": 2,
-          "title": "Session",
-          "web_site": "https://sites.google.com/view/alians-php-76/home"
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "title": "Processing Forms",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "Form",
-          "web_site": "https://sites.google.com/view/alians-php-77/home"
-        },
-        {
-          "id": 2,
-          "title": "filter_has_var",
-          "web_site": "https://sites.google.com/view/alians-php-78/home"
-        },
-        {
-          "id": 3,
-          "title": "filter_var",
-          "web_site": "https://sites.google.com/view/alians-php-79/home"
-        },
-        {
-          "id": 4,
-          "title": "filter_input",
-          "web_site": "https://sites.google.com/view/alians-php-80/home"
-        },
-        {
-          "id": 5,
-          "title": "Form validation",
-          "web_site": "https://sites.google.com/view/alians-php-81/home"
-        },
-        {
-          "id": 6,
-          "title": "Checkbox",
-          "web_site": "https://sites.google.com/view/alians-php-82/home"
-        },
-        {
-          "id": 7,
-          "title": "Multiple checkboxes",
-          "web_site": "https://sites.google.com/view/alians-php-83/home"
-        },
-        {
-          "id": 8,
-          "title": "Radio Button",
-          "web_site": "https://sites.google.com/view/alians-php-84/home"
-        },
-        {
-          "id": 9,
-          "title": "Select Option",
-          "web_site": "https://sites.google.com/view/alians-php-85/home"
-        },
-        {
-          "id": 10,
-          "title": "CSRF",
-          "web_site": "https://sites.google.com/view/alians-php-86/home"
-        },
-        {
-          "id": 11,
-          "title": "Flash messages",
-          "web_site": "https://sites.google.com/view/alians-php-87/home"
-        },
-        {
-          "id": 12,
-          "title": "Post-Redirect-Get",
-          "web_site": "https://sites.google.com/view/alians-php-88/home"
-        },
-        {
-          "id": 13,
-          "title": "File Upload",
-          "web_site": "https://sites.google.com/view/alians-php-89/home"
-        },
-        {
-          "id": 14,
-          "title": "Upload Multiple Files",
-          "web_site": "https://sites.google.com/view/alians-php-90/home"
-        },
-        {
-          "id": 15,
-          "title": "Contact Form",
-          "web_site": "https://sites.google.com/view/alians-php-91/home"
-        },
-        {
-          "id": 16,
-          "title": "Validation",
-          "web_site": "https://sites.google.com/view/alians-php-92/home"
-        },
-        {
-          "id": 17,
-          "title": "Sanitize Input",
-          "web_site": "https://sites.google.com/view/alians-php-93/home"
-        },
-        {
-          "id": 18,
-          "title": "filter",
-          "web_site": "https://sites.google.com/view/alians-php-94/home"
-        },
-        {
-          "id": 19,
-          "title": "password_hash",
-          "web_site": "https://sites.google.com/view/alians-php-95/home"
-        },
-        {
-          "id": 20,
-          "title": "password_verify",
-          "web_site": "https://sites.google.com/view/alians-php-96/home"
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "title": "Login System",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "Registration Form",
-          "web_site": "https://sites.google.com/view/alians-php-97/home"
-        },
-        {
-          "id": 2,
-          "title": "Login",
-          "web_site": "https://sites.google.com/view/alians-php-98/home"
-        },
-        {
-          "id": 3,
-          "title": "Email Verification",
-          "web_site": "https://sites.google.com/view/alians-php-99/home"
-        },
-        {
-          "id": 4,
-          "title": "Remember Me",
-          "web_site": "https://sites.google.com/view/alians-php-100/home"
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "title": "Working with Files",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "Open File",
-          "web_site": "https://sites.google.com/view/alians-php-101/home"
-        },
-        {
-          "id": 2,
-          "title": "File Exists",
-          "web_site": "https://sites.google.com/view/alians-php-102/home"
-        },
-        {
-          "id": 3,
-          "title": "Read File",
-          "web_site": "https://sites.google.com/view/alians-php-103/home"
-        },
-        {
-          "id": 4,
-          "title": "file_get_contents",
-          "web_site": "https://sites.google.com/view/alians-php-104/home"
-        },
-        {
-          "id": 5,
-          "title": "file() Function",
-          "web_site": "https://sites.google.com/view/alians-php-105/home"
-        },
-        {
-          "id": 6,
-          "title": "Download File",
-          "web_site": "https://sites.google.com/view/alians-php-106/home"
-        },
-        {
-          "id": 7,
-          "title": "Copy File",
-          "web_site": "https://sites.google.com/view/alians-php-107/home"
-        },
-        {
-          "id": 8,
-          "title": "Delete File",
-          "web_site": "https://sites.google.com/view/alians-php-108/home"
-        },
-        {
-          "id": 9,
-          "title": "Rename File",
-          "web_site": "https://sites.google.com/view/alians-php-109/home"
-        },
-        {
-          "id": 10,
-          "title": "CSV",
-          "web_site": "https://sites.google.com/view/alians-php-110/home"
-        },
-        {
-          "id": 11,
-          "title": "filesize",
-          "web_site": "https://sites.google.com/view/alians-php-111/home"
-        },
-        {
-          "id": 12,
-          "title": "File Permissions",
-          "web_site": "https://sites.google.com/view/alians-php-112/home"
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "title": "Working with Directories",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "Directory",
-          "web_site": "https://sites.google.com/view/alians-php-113/home"
-        },
-        {
-          "id": 2,
-          "title": "glob",
-          "web_site": "https://sites.google.com/view/alians-php-114/home"
-        },
-        {
-          "id": 3,
-          "title": "dirname",
-          "web_site": "https://sites.google.com/view/alians-php-115/home"
-        },
-        {
-          "id": 4,
-          "title": "basename",
-          "web_site": "https://sites.google.com/view/alians-php-116/home"
-        },
-        {
-          "id": 5,
-          "title": "pathinfo",
-          "web_site": "https://sites.google.com/view/alians-php-117/home"
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "title": "String operations",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "strlen",
-          "web_site": "https://sites.google.com/view/alians-php-118/home"
-        },
-        {
-          "id": 2,
-          "title": "substr",
-          "web_site": "https://sites.google.com/view/alians-php-119/home"
-        },
-        {
-          "id": 3,
-          "title": "strpos",
-          "web_site": "https://sites.google.com/view/alians-php-120/home"
-        },
-        {
-          "id": 4,
-          "title": "str_replace",
-          "web_site": "https://sites.google.com/view/alians-php-121/home"
-        },
-        {
-          "id": 5,
-          "title": "implode",
-          "web_site": "https://sites.google.com/view/alians-php-122/home"
-        },
-        {
-          "id": 6,
-          "title": "explode",
-          "web_site": "https://sites.google.com/view/alians-php-123/home"
-        },
-        {
-          "id": 7,
-          "title": "trim",
-          "web_site": "https://sites.google.com/view/alians-php-124/home"
-        },
-        {
-          "id": 8,
-          "title": "ltrim",
-          "web_site": "https://sites.google.com/view/alians-php-125/home"
-        },
-        {
-          "id": 9,
-          "title": "rtrim",
-          "web_site": "https://sites.google.com/view/alians-php-126/home"
-        },
-        {
-          "id": 10,
-          "title": "htmlspecialchars()",
-          "web_site": "https://sites.google.com/view/alians-php-127/home"
-        },
-        {
-          "id": 11,
-          "title": "str_contains()",
-          "web_site": "https://sites.google.com/view/alians-php-128/home"
-        },
-        {
-          "id": 12,
-          "title": "str_starts_with()",
-          "web_site": "https://sites.google.com/view/alians-php-129/home"
-        },
-        {
-          "id": 13,
-          "title": "str_ends_with()",
-          "web_site": "https://sites.google.com/view/alians-php-130/home"
-        },
-        {
-          "id": 14,
-          "title": "strtolower()",
-          "web_site": "https://sites.google.com/view/alians-php-131/home"
-        },
-        {
-          "id": 15,
-          "title": "strtoupper()",
-          "web_site": "https://sites.google.com/view/alians-php-132/home"
-        },
-        {
-          "id": 16,
-          "title": "ucfirst()",
-          "web_site": "https://sites.google.com/view/alians-php-133/home"
-        },
-        {
-          "id": 17,
-          "title": "ucwords()",
-          "web_site": "https://sites.google.com/view/alians-php-134/home"
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "title": "Regular Expressions",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "Regular Expressions",
-          "web_site": "https://sites.google.com/view/alians-php-135/home"
-        },
-        {
-          "id": 2,
-          "title": "Character Classes",
-          "web_site": "https://sites.google.com/view/alians-php-136/home"
-        },
-        {
-          "id": 3,
-          "title": "Anchors",
-          "web_site": "https://sites.google.com/view/alians-php-137/home"
-        },
-        {
-          "id": 4,
-          "title": "Word Boundary",
-          "web_site": "https://sites.google.com/view/alians-php-138/home"
-        },
-        {
-          "id": 5,
-          "title": "Sets & Ranges",
-          "web_site": "https://sites.google.com/view/alians-php-139/home"
-        },
-        {
-          "id": 6,
-          "title": "Quantifiers",
-          "web_site": "https://sites.google.com/view/alians-php-140/home"
-        },
-        {
-          "id": 7,
-          "title": "Greedy Quantifiers",
-          "web_site": "https://sites.google.com/view/alians-php-141/home"
-        },
-        {
-          "id": 8,
-          "title": "Non-greedy (or lazy) Quantifiers",
-          "web_site": "https://sites.google.com/view/alians-php-142/home"
-        },
-        {
-          "id": 9,
-          "title": "Capturing groups",
-          "web_site": "https://sites.google.com/view/alians-php-143/home"
-        },
-        {
-          "id": 10,
-          "title": "Backreferences",
-          "web_site": "https://sites.google.com/view/alians-php-144/home"
-        },
-        {
-          "id": 11,
-          "title": "Alternation",
-          "web_site": "https://sites.google.com/view/alians-php-145/home"
-        },
-        {
-          "id": 12,
-          "title": "Lookahead",
-          "web_site": "https://sites.google.com/view/alians-php-146/home"
-        },
-        {
-          "id": 13,
-          "title": "Lookbehind",
-          "web_site": "https://sites.google.com/view/alians-php-147/home"
-        },
-        {
-          "id": 14,
-          "title": "preg_match()",
-          "web_site": "https://sites.google.com/view/alians-php-148/home"
-        },
-        {
-          "id": 15,
-          "title": "preg_match_all()",
-          "web_site": "https://sites.google.com/view/alians-php-149/home"
-        },
-        {
-          "id": 16,
-          "title": "preg_replace()",
-          "web_site": "https://sites.google.com/view/alians-php-150/home"
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "title": "Date & Time",
-      "SubSection": [
-        {
-          "id": 1,
-          "title": "Time",
-          "web_site": "https://sites.google.com/view/alians-php-151/home"
-        },
-        {
-          "id": 2,
-          "title": "Date",
-          "web_site": "https://sites.google.com/view/alians-php-152/home"
-        }
-      ]
-    }
-  ]
+    ]
 }
